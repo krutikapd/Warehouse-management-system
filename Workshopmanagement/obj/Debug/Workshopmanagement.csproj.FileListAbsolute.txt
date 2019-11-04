@@ -16,7 +16,6 @@ C:\Users\MAHE\source\repos\Workshopmanagement\bin\Debug\MySQL.Data.EntityFramewo
 C:\Users\MAHE\source\repos\Workshopmanagement\bin\Debug\MySql.Web.xml
 C:\Users\MAHE\source\repos\Workshopmanagement\obj\Debug\Workshopmanagement.csprojAssemblyReference.cache
 C:\Users\MAHE\source\repos\Workshopmanagement\obj\Debug\Workshopmanagement.exe.config
-C:\Users\MAHE\source\repos\Workshopmanagement\obj\Debug\Workshopmanagement.Form1.resources
 C:\Users\MAHE\source\repos\Workshopmanagement\obj\Debug\Workshopmanagement.Form2.resources
 C:\Users\MAHE\source\repos\Workshopmanagement\obj\Debug\Workshopmanagement.Properties.Resources.resources
 C:\Users\MAHE\source\repos\Workshopmanagement\obj\Debug\Workshopmanagement.csproj.GenerateResource.cache
@@ -24,3 +23,5 @@ C:\Users\MAHE\source\repos\Workshopmanagement\obj\Debug\Workshopmanagement.cspro
 C:\Users\MAHE\source\repos\Workshopmanagement\obj\Debug\Workshopmanagement.csproj.CopyComplete
 C:\Users\MAHE\source\repos\Workshopmanagement\obj\Debug\Workshopmanagement.exe
 C:\Users\MAHE\source\repos\Workshopmanagement\obj\Debug\Workshopmanagement.pdb
+C:\Users\MAHE\source\repos\Workshopmanagement\obj\Debug\Workshopmanagement.dashB.resources
+C:\Users\MAHE\source\repos\Workshopmanagement\obj\Debug\Workshopmanagement.Login.resources
