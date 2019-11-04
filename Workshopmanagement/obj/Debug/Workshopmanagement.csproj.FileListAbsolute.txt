@@ -23,5 +23,5 @@ C:\Users\MAHE\source\repos\Workshopmanagement\obj\Debug\Workshopmanagement.cspro
 C:\Users\MAHE\source\repos\Workshopmanagement\obj\Debug\Workshopmanagement.csproj.CopyComplete
 C:\Users\MAHE\source\repos\Workshopmanagement\obj\Debug\Workshopmanagement.exe
 C:\Users\MAHE\source\repos\Workshopmanagement\obj\Debug\Workshopmanagement.pdb
-C:\Users\MAHE\source\repos\Workshopmanagement\obj\Debug\Workshopmanagement.dashB.resources
 C:\Users\MAHE\source\repos\Workshopmanagement\obj\Debug\Workshopmanagement.Login.resources
+C:\Users\MAHE\source\repos\Workshopmanagement\obj\Debug\Workshopmanagement.dashBoard.resources

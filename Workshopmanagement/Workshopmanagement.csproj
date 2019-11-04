@@ -51,11 +51,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="dashB.cs">
+    <Compile Include="dashBoard.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="dashB.Designer.cs">
-      <DependentUpon>dashB.cs</DependentUpon>
+    <Compile Include="dashBoard.Designer.cs">
+      <DependentUpon>dashBoard.cs</DependentUpon>
     </Compile>
     <Compile Include="Form2.cs">
       <SubType>Form</SubType>
@@ -71,8 +71,8 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="dashB.resx">
-      <DependentUpon>dashB.cs</DependentUpon>
+    <EmbeddedResource Include="dashBoard.resx">
+      <DependentUpon>dashBoard.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form2.resx">
       <DependentUpon>Form2.cs</DependentUpon>

@@ -17,6 +17,7 @@ namespace Workshopmanagement
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Login());
+
         }
     }
 }
