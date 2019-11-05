@@ -19,4 +19,28 @@ emp_id int auto_increment,
 name varchar(100),
 mobile_number varchar(20),
 email varchar(50),
-primary key(emp_id)
+primary key(emp_id));
+
+create table supplier(
+supplier_id int primary key auto_increment,
+retailer_name varchar(20) not null,
+retailer_phoneno varchar(20) not null,
+retailer_email varchar(20),
+retailer_address varchar(40),
+);
+
+create table vehicle (
+vehicle_no int primary key auto_increment not null,
+vehicle_name varchar(20) not null,
+capcity numeric(10,2) not null
+);
+
+create table supplier_invoice (
+invoice_id int primary key auto_increment,
+supplier_id int,
+no_of_days int,
+product_id int,
+FOREIGN KEY (product_id) REFERENCES inventory,
+foreign key (supplier_id) references from supplier
+);
+
