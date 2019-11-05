@@ -1,0 +1,22 @@
+create table manager(
+manager_id int auto_increment,
+username varchar(50) not null unique, 
+password varchar(100),
+mobile_number varchar(15),
+email varchar(30),
+gender varchar(10),
+primary key(manager_id));
+
+create table manager_name(
+manager_id int primary key,
+manager_first_name varchar(20),
+manager_middle_name varchar(20),
+manager_last_name varchar(20),
+foreign key(manager_id) references manager(manager_id));
+
+create table employee(
+emp_id int auto_increment,
+name varchar(100),
+mobile_number varchar(20),
+email varchar(50),
+primary key(emp_id)
